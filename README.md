@@ -1,6 +1,6 @@
 # Analysis of Data Analyst job ads in the US on Linkedin Website
 
-The purpose of this project is to collect data on job opportunities in the US in the field of data analysis and present important information such as:
+The objective of this project is to collect data on LinkedIn about job advertisements in the USA in the field of data analysis and present important information such as:
 
 - Number of job ads analyzed.
 - Period analyzed.
