@@ -12,3 +12,5 @@ This project was divided into the following steps:
 - Step 1: Data extraction from LinkedIn site using web scraping.
 - Step 2: Cleaning of data in python.
 - Step 3: Presentation of data through a Dashboard in Power Bi.
+
+PS: It is important to say that scraping public data from LinkedIn is legal according to [LinkedIn website](https://www.linkedin.com/pulse/unlocking-power-linkedin-scraping-comprehensive-guide-tikflow-rpa/) (Accessed in 09/13/2023).
