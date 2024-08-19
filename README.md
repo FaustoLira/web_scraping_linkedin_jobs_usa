@@ -2,8 +2,7 @@
 
 ## Introduction
 
-This project aims to extract and analyze data from LinkedIn regarding job ads for data analyst positions 
-in the USA. The analysis seeks to provide insights into:
+This project extracts and analyzes LinkedIn job ads for data analyst positions in the USA. The results are intended to help an educational institute optimize its data analysis program to better align with industry needs. Specifically, the analysis seeks to provide:
 
 - The number of job ads analyzed.
 - The period during which the data was collected.
