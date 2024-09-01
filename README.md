@@ -1,4 +1,4 @@
-# Analysis of Data Analyst Job Ads in the US on LinkedIn
+# Data Analyst Job Listings on LinkedIn
 
 ## Introduction
 
