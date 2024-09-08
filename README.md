@@ -1,6 +1,6 @@
 # Data Analyst Job Listings on LinkedIn
 
-## Objective
+## Introduction
 
 This project extracts and analyzes LinkedIn job ads for data analyst positions in the USA.
 The results are intended to help an educational institute optimize its data analysis program to better align with industry needs.
